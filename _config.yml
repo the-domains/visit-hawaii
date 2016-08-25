@@ -1,5 +1,4 @@
 layout_spectrum: 0.7449223
-typography_spectrum: 0.7532769
 color:
   saturation: 1
   lightness: 0.890681
@@ -11,4 +10,5 @@ color:
     - '#7D6448'
     - '#E2E8F1'
   rhythmicContrast: 0.5477897
+typography_spectrum: 0.8727598
 name: 'Visit Hawaii '
